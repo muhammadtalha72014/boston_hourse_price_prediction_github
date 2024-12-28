@@ -1,1 +1,24 @@
-# boston_hourse_price_prediction_github
+# Boston House Price Prediction Github
+
+## Software and Tools Requirements
+
+1. [Github Account](https://github.com)
+2. [HerokuAccount](https://heroku.com)
+3. [VSCODEIDE](https://code.visualstudio.com/)
+4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+
+Create a new environment for a project
+
+```
+conda create -p venv python==3.9 -y
+```
+
+Activate the conda environment venv
+```
+conda activate venv/
+```
+
+Make the requirements.txt file and install all the requirements using the following command
+```
+pip install -r requirements.txt
+```
