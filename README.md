@@ -1,5 +1,7 @@
 # Boston House Price Prediction Github
 
+This project is only for my practice how to use github, how I commit or push files using github command through VS Code
+
 ## Software and Tools Requirements
 
 1. [Github Account](https://github.com)
